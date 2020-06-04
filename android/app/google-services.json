@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "319092060211",
+    "firebase_url": "https://imageprocessing-4ad23.firebaseio.com",
+    "project_id": "imageprocessing-4ad23",
+    "storage_bucket": "imageprocessing-4ad23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319092060211:android:9b11d6a97ac9a7111e7346",
+        "android_client_info": {
+          "package_name": "com.example.imageProcessing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319092060211-u5ss7o7dhih09qtdb9q7ve3og62hks5t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imageProcessing",
+            "certificate_hash": "e4487579cc91b729d9b96030930bb9a7b1e3e38f"
+          }
+        },
+        {
+          "client_id": "319092060211-8ec78drq782p7su1h3sfhjdav684t124.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6A7YzyUvF1hoJ-1sFA4zsTqvbcvJOrh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319092060211-8ec78drq782p7su1h3sfhjdav684t124.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
